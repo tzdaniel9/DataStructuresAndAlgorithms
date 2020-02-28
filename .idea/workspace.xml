@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b788cfec-3a28-4c9a-86e3-190c2351eb17" name="Default Changelist" comment="" />
+    <list default="true" id="b788cfec-3a28-4c9a-86e3-190c2351eb17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructures&amp;Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/META-INF/DataStructures&amp;Algorithms.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/Trees/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/Trees/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/Trees/binarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/BucketSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/ChainedHashtable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/HashTableM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/HashtableChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/HashtableChallenge2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/HashtableJDK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/SimpleHashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/StoredEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Hashtable/chainedHashtableM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Heaps/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Heaps/MaxHeaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Heaps/PriorQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/ArraysList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/EmployeeDoublyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/EmployeeLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/EmployeeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/IntegerLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/JdkLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/challenge1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/challenge2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/List/singleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Queue/ArrayQueueM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Queue/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Queue/QueueChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Queue/circularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/Queue/circularQueueM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/SearchAlgorithm/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/SearchAlgorithm/liearSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/arrays/arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/bubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/countingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/insertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/mergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/quickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/radixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/radixSortChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/recursionChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/selectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/shellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/sort/sortingArraysJDK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/stacks/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/stacks/ArraysStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/stacks/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/stacks/LinkedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/stacks/linkedStackM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructures&amp;Algorithms/com/stacks/stacksChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees/binarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/ChainedHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/HashTableM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/HashtableChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/HashtableChallenge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/HashtableJDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/SimpleHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/StoredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Hashtable/chainedHashtableM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heaps/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heaps/MaxHeaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Heaps/PriorQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/ArraysList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/EmployeeDoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/EmployeeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/IntegerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/JdkLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/challenge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/challenge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/List/singleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Queue/ArrayQueueM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Queue/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Queue/QueueChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Queue/circularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Queue/circularQueueM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SearchAlgorithm/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/SearchAlgorithm/liearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arrays/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/countingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/radixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/radixSortChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/recursionChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/selectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/shellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sort/sortingArraysJDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stacks/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stacks/ArraysStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stacks/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stacks/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stacks/linkedStackM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/stacks/stacksChallenge.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +136,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XRAq40SMSSoTblfxdWxgiiHJxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
