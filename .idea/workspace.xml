@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b788cfec-3a28-4c9a-86e3-190c2351eb17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XRAq40SMSSoTblfxdWxgiiHJxE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Hashtable" />
+      <recent name="com.Queue" />
+      <recent name="com.List" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stacks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sortingArraysJDK">
+    <configuration name="MaxHeaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Heaps.MaxHeaps" />
+      <module name="DataStructures&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriorQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Heaps.PriorQueue" />
+      <module name="DataStructures&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Heaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trees.binarySearchTree" />
+      <module name="DataStructures&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortingArraysJDK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sort.sortingArraysJDK" />
+      <module name="DataStructures&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stacksChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stacks.stacksChallenge" />
+      <module name="DataStructures&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sortingArraysJDK" />
+        <item itemvalue="Application.stacksChallenge" />
+        <item itemvalue="Application.MaxHeaps" />
+        <item itemvalue="Application.PriorQueue" />
+        <item itemvalue="Application.binarySearchTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b788cfec-3a28-4c9a-86e3-190c2351eb17" name="Default Changelist" comment="" />
+      <created>1580998720490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580998720490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="84" width="814" height="728" key="#Intentions" timestamp="1581947542427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="84" width="814" height="728" key="#Intentions/0.0.1536.824@0.0.1536.824" timestamp="1581947542427" />
+    <state x="361" y="72" key="#Project_Structure" timestamp="1581947714941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581947714941" />
+    <state x="979" y="180" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582017115819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="979" y="180" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582017115819" />
+    <state x="1055" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1582125838557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1055" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582125838557" />
+    <state x="979" y="172" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1581946916323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="979" y="172" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581946916323" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1582642989156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582642989156" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1582642989156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582642989156" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1582642989156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582642989156" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1582642989156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582642989156" />
+    <state width="574" height="258" key="GridCell.Tab.1.bottom" timestamp="1582037547645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="574" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582037547645" />
+    <state width="574" height="258" key="GridCell.Tab.1.center" timestamp="1582037547645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="574" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582037547645" />
+    <state width="574" height="258" key="GridCell.Tab.1.left" timestamp="1582037547645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="574" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582037547645" />
+    <state width="574" height="258" key="GridCell.Tab.1.right" timestamp="1582037547645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="574" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582037547645" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1581947837899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581947837899" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581963783837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1581963783837" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582745342612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582745342612" />
+    <state x="927" y="153" width="609" height="536" key="find.popup" timestamp="1581827379554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="927" y="153" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581827379554" />
+    <state x="418" y="39" key="new project wizard" timestamp="1582392485909">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582392485909" />
+    <state x="911" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582100759344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="911" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582100759344" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Queue/circularQueue.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Queue/circularQueueM.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Queue/circularQueueM.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
